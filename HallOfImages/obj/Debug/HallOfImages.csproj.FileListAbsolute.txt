@@ -1,0 +1,4 @@
+C:\BoltOnAlt\HallOfImages\HallOfImages\bin\HallOfImages.dll
+C:\BoltOnAlt\HallOfImages\HallOfImages\bin\HallOfImages.pdb
+C:\BoltOnAlt\HallOfImages\HallOfImages\obj\Debug\HallOfImages.dll
+C:\BoltOnAlt\HallOfImages\HallOfImages\obj\Debug\HallOfImages.pdb
